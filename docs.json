@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "dextoro Documentation",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -95,7 +95,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@dextoro.com"
       }
     ],
     "primary": {
